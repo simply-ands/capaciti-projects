@@ -16,10 +16,23 @@ This module covered database management with SQL, including tasks like creating 
 ### Python
 This module applied Python skills to develop a Banking Application and implemented a random password generator for secure validation.
 
-## Installation
+
+# Installation
 
 To install the necessary dependencies, use the following command (subject to updates):
 
 ```bash
 pip install python
+```
+
+### AI & API
+```bash
+pip install customtkinter
+pip install Pillow
+pip install diffusers
+pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu
+-OR-
+pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu118
+-OR-
+pip install --upgrade torch torchvision torchaudio
 ```
